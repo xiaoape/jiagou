@@ -8,7 +8,7 @@ import './style.css'
 
 class TablePage extends Component {
     state = {
-        showClone: false,
+        showClone:false,
         total: 0
     }
     componentDidMount() {
