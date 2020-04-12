@@ -22,9 +22,9 @@ const cssRule = {
         // 启用css modules
         // modules: true,
         // 启用sourceMap
-        soucreMap: true,
+        // soucreMap: true,
         // 配置生成的标识符(ident)
-        localIdentName: '[name]-[local]-[hash:base64:8]',
+        // localIdentName: '[name]-[local]-[hash:base64:8]',
         // 在 css-loader 前应用的 loader 的数量
         importLoaders: 1
     }

@@ -1,7 +1,6 @@
-btntest {
+.btntest {
   color: green;
 }
-/* 有点奇怪，body生效，test不生效 */
 body {
   background-color: hotpink;
 }
